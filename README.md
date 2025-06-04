@@ -4,7 +4,7 @@
 
 ## Basic Navigation & Show Commands 💻
 
-* **Enter Privileged EXEC Mode:**
+* **Enter Privileged EXEC Mode:** ( Some admin accounts already do this automatically )
     ```
     enable
     ```
