@@ -183,9 +183,8 @@
 
 * **Copy Running Configuration to Startup Configuration:**
     ```
-    wr mem
+    copy run start
     ```
-    (or `copy run start`)
 
 ---
 
